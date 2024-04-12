@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Velocities : MonoBehaviour {
     public float speed;
+	public string lab10variable;
 	// Use this for initialization
 	void Start () {
 	
